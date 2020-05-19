@@ -1,6 +1,5 @@
 // ==UserScript==
 // @name         Support Z1.fm in global media control
-// @namespace    http://tampermonkey.net/
 // @version      1.0
 // @author       @m9w
 // @match        https://z1.fm/*
