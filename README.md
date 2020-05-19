@@ -1,4 +1,4 @@
-# GlobalMediaControl_.fm
+# GlobalMediaControl z1.fm
 Support Z1.fm in global media control on base TamperMonkey
 
 Before:
