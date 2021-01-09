@@ -17,3 +17,9 @@ https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldm
 Install script
 
 https://github.com/m9w/GMC_z1.fm/raw/master/gmc_z1fm.user.js
+
+# Update GlobalMediaControl zaycev.fm
+
+Install script
+
+https://github.com/m9w/GMC_z1.fm/raw/master/zaycev.fm.user.js
