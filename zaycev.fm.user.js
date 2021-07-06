@@ -9,7 +9,7 @@
 (function() {
     'use strict';
     navigator.mediaSession.metadata = new MediaMetadata();
-    function update(path=window.location.pathname){
+    function update(path=$('#chanel_nav .g-active').attr('href')){
         $.getJSON("https://api.zaycev.fm/api/v1/channels" + path + "/latest?page=1&limit=1", function(a){
             var data = a.latest[0];
             navigator.mediaSession.metadata.title = data.title;
