@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Support Z1.fm in global media control
+// @name         Support Z2.fm in global media control
 // @version      1.0
 // @author       @m9w
-// @match        https://z1.fm/*
+// @match        https://z2.fm/*
 // @grant        none
 // ==/UserScript==
 
